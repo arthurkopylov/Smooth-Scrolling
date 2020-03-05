@@ -26,6 +26,9 @@ a smooth.js is not a minified script. You can choose any of them.
 
 4. In the main JS file, you need to call the smoothing () function, which takes in the amount of 
    the scrolled space (height).
+   
+   For example:
+   
    ```
    smoothing(250);
    ```
