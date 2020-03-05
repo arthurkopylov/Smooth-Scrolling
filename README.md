@@ -21,8 +21,8 @@ a smooth.js is not a minified script. You can choose any of them.
    ```
   
 
- Here in the link you need to specify the ID of the element to which you want to scroll through the site 
- (you can do the same scrolling at the bottom of the site), and leave the class unchanged.
+   Here in the link you need to specify the ID of the element to which you want to scroll through the site 
+   (you can do the same scrolling at the bottom of the site), and leave the class unchanged.
 
 4. In the main JS file, you need to call the smoothing () function, which takes in the amount of
 
