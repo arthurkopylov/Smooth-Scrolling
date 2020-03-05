@@ -18,7 +18,6 @@ a smooth.js is not a minified script. You can choose any of them.
    <a href="#up" class="pageup">
         ...
    </a>
-   
    ```
   
 
