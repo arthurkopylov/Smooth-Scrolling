@@ -12,12 +12,14 @@ a smooth.js is not a minified script. You can choose any of them.
 
 3. To make smooth scrolling for the beginning, you need to create a button for scrolling in HTML.
    
-   '''
+   
+   
+   ```
    <a href="#up" class="pageup">
         ...
    </a>
    
-   '''
+   ```
   
 
  Here in the link you need to specify the ID of the element to which you want to scroll through the site 
